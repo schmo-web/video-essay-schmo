@@ -1,6 +1,7 @@
 # video-essay-schmo
 
 (https://youtu.be/-JInc5UDZF8)
+
 In my video essay, I explore how HBO’s Band of Brothers serves as more than just an exceptional war drama—it is a powerful tool for historical preservation and cultural memory. My thesis argues that the series' emotional storytelling, coupled with firsthand veteran interviews and its commitment to historical accuracy, allows it to bridge the gap between textbook history and lived experience. By immersing viewers in the harsh realities of World War II, Band of Brothers fosters empathy for soldiers and contributes to shaping the public’s understanding of war. I chose this subject matter because of the unique way Band of Brothers presents history not just as a series of battles, but as deeply personal and human narratives. This approach is vital, as many viewers may lack an understanding of the real sacrifices veterans made during the war. 
 
 To support my argument, I used the video essay format, which allowed me to blend visual storytelling with analysis. By incorporating archival footage, veteran interviews, and key cinematic moments from the series, I was able to highlight both the emotional depth and historical accuracy of *Band of Brothers*. Comparing it with other war films and series, such as Saving Private Ryan and The Pacific, I demonstrated how this series has set a new standard in war storytelling. Utilizing Premiere Pro, I crafted a compelling narrative that combined visuals, sound design, and text overlays to enhance the emotional impact and clarity of my argument.
